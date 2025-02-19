@@ -41,7 +41,9 @@ The summary view consists of three main sections:
 2️⃣ **Demographics** – Workforce composition analysis.  
 3️⃣ **Income Analysis** – Salary insights across different employee groups.  
 
-### **Key Performance Indicators (KPIs)**  
+## **📊 1. Overview Section: Workforce Summary & Attrition Trends**  
+
+### **📌 Key Performance Indicators (KPIs) - 2023**  
 
 | **Metric**          | **2019**  | **2020**  | **2021**  | **2022**  | **2023**  | **Change (2019-2023)** |
 |--------------------|---------|---------|---------|---------|---------|------------------|
@@ -63,7 +65,9 @@ The summary view consists of three main sections:
 🔸 Improve retention strategies (e.g., mentorship programs, career growth opportunities).  
 🔸 Re-evaluate compensation strategies to retain top talent.  
 
-### **Workforce Growth & Attrition Trends**  
+---
+
+### **📉 Workforce Growth & Attrition Trends (2019 – 2023)**  
 
 | **Year** | **New Hires** | **Terminations** | **Attrition Rate** |
 |---------|-------------|--------------|----------------|
@@ -82,7 +86,11 @@ The summary view consists of three main sections:
 🔸 Enhance employee benefits & flexible work options to reduce voluntary resignations.  
 🔸 Conduct exit interviews to identify attrition drivers.  
 
-### **Gender Distribution**  
+---
+
+## **📊 2. Demographics Section: Workforce Composition**  
+
+### **🔹 Gender Distribution**  
 
 | **Gender** | **2019** | **2023** | **Change** |
 |----------|---------|---------|------------|
@@ -96,7 +104,9 @@ The summary view consists of three main sections:
 ✅ **Recommendations:**  
 🔸 Enhance leadership opportunities for women through **mentorship programs**.  
 
-### **Age Group Distribution**  
+---
+
+### **🔹 Age Group Distribution (2023)**  
 
 | **Age Group** | **Employees** | **Attrition Rate** |
 |-------------|------------|----------------|
@@ -114,7 +124,11 @@ The summary view consists of three main sections:
 🔸 Develop **career pathways** for younger employees to improve retention.  
 🔸 Provide **skill-building programs** to support younger workforce development.  
 
-### **Salary vs Education Level**  
+---
+
+## **📊 3. Income Analysis: Salary & Retention Trends**  
+
+### **🔹 Salary vs. Education Level (2023)**  
 
 | **Education Level** | **Average Salary ($)** | **Attrition Rate** |
 |-------------------|----------------|----------------|
@@ -131,9 +145,11 @@ The summary view consists of three main sections:
 ✅ **Recommendations:**  
 🔸 Offer **tuition reimbursement & training programs** to encourage upskilling.  
 
-## **Conclusion & Next Steps**  
+---
 
-### **Final Recommendations & Action Plan**  
+## **📌 Conclusion & Next Steps**  
+
+### **📌 Final Recommendations & Action Plan**  
 
 ✅ **Retention Strategies for High Performers**  
 → **Higher salary incentives, leadership programs, and structured promotions.**  
@@ -147,7 +163,7 @@ The summary view consists of three main sections:
 ✅ **Support for NYC Employees**  
 → **Hybrid work & cost-of-living salary adjustments.**  
 
-**Next Steps:** 
+📌 **Next Steps:**  
 🔸 Implement **targeted engagement programs** for younger employees.  
 🔸 Optimize **recruitment and compensation strategies** to reduce voluntary turnover.  
 🔸 Utilize **HR dashboards** for continuous monitoring & predictive attrition analytics.  
