@@ -45,7 +45,7 @@ Live Dashboard @ Tableau Public [LINK](https://public.tableau.com/app/profile/pr
 
 ## **📊 1. Overview Section: Workforce Summary & Attrition Trends**  
 
-### **📌 Key Performance Indicators (KPIs) - 2023**  
+### **Key Performance Indicators (KPIs) - 2023**  
 
 | **Metric**          | **2019**  | **2020**  | **2021**  | **2022**  | **2023**  | **Change (2019-2023)** |
 |--------------------|---------|---------|---------|---------|---------|------------------|
@@ -149,9 +149,9 @@ Live Dashboard @ Tableau Public [LINK](https://public.tableau.com/app/profile/pr
 
 ---
 
-## **📌 Conclusion & Next Steps**  
+## **Conclusion & Next Steps**  
 
-### **📌 Final Recommendations & Action Plan**  
+### **Final Recommendations & Action Plan**  
 
 ✅ **Retention Strategies for High Performers**  
 → **Higher salary incentives, leadership programs, and structured promotions.**  
@@ -165,7 +165,7 @@ Live Dashboard @ Tableau Public [LINK](https://public.tableau.com/app/profile/pr
 ✅ **Support for NYC Employees**  
 → **Hybrid work & cost-of-living salary adjustments.**  
 
-📌 **Next Steps:**  
+### **Next Steps:**  
 🔸 Implement **targeted engagement programs** for younger employees.  
 🔸 Optimize **recruitment and compensation strategies** to reduce voluntary turnover.  
 🔸 Utilize **HR dashboards** for continuous monitoring & predictive attrition analytics.  
