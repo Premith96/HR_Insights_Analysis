@@ -1,4 +1,4 @@
-# HR Dashboard Tableau Project
+# HR Insights Tableau Project
 
 ## **Project Background & Objective:**  
 
