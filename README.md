@@ -14,7 +14,7 @@ The goal is to develop a **comprehensive HR dashboard** that enables HR managers
 This dashboard will include **high-level summaries and detailed employee records**, allowing HR to make informed, strategic decisions.
 
 ## **Dataset and Data Discription:**
-The provided dataset consists of information on 8950 employees. Below is a detailed explanation of the dataset and its attributes:
+The dataset is generated using using a combination of ChatGPT prompts and the Python Faker library consisting of information on 8950 employees. Below is a detailed explanation of the dataset and its attributes:
 
 * Employee ID: Unique identification number assigned to each employee.
 * First Name: First name of the employee.
