@@ -32,7 +32,7 @@ The provided dataset consists of information on 8950 employees. Below is a detai
 * Termination Date: The date when the employee left the company.
 * Adjusted Salary: The salary adjustment calculated based on gender, education level, and age.
 
-## Dashborad Overview:
+## Dashboard Overview:
 ![Screenshot 2024-05-13 095723](https://raw.githubusercontent.com/Premith96/HR_Dashboard_Analytics_Project/refs/heads/main/HR%20_Analysis_Dashboard.png)
 
 The summary view consists of three main sections:  
@@ -40,6 +40,8 @@ The summary view consists of three main sections:
 1️⃣ **Overview** – Key HR metrics and trends.  
 2️⃣ **Demographics** – Workforce composition analysis.  
 3️⃣ **Income Analysis** – Salary insights across different employee groups.  
+
+Live Dashboard @ Tableau Public [LINK](https://public.tableau.com/app/profile/premith.pradeep/viz/HumanRresourceDashboard/HRSummary)
 
 ## **📊 1. Overview Section: Workforce Summary & Attrition Trends**  
 
