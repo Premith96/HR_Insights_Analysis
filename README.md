@@ -1,4 +1,4 @@
-# HR Insights Tableau Project
+# HR Insights Analysis Project
 
 ## **Project Background & Objective:**  
 
