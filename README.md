@@ -45,10 +45,10 @@ The summary view consists of three main sections:
 2️⃣ **Demographics** – Workforce composition analysis.  
 3️⃣ **Income Analysis** – Salary insights across different employee groups.
 
-### **Employee Records View**
+### **Employee Record View**
 ![Screenshot 2024-05-13 095723](https://raw.githubusercontent.com/Premith96/HR_Insights_Analysis_Project/refs/heads/main/HR%20_Records_Details_%20View.png)
 
-The **Employee List View** consists of three main sections:  
+The **Employee Record View** consists of three main sections:  
 
 1️⃣ **Employee Information** – Displays employee ID, name, job title, department, and education level.  
 2️⃣ **Employment Details** – Includes location, salary, hire status, and length of employment.  
