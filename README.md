@@ -1,7 +1,7 @@
 # HR Insights Analysis Project
 
-📅 **Analysis Period:** 2019 – 2023
-📂 **Data Sources:** HR Employee Database & Tableau Dashboards
+📅 **Analysis Period:** 2019 – 2023  
+📂 **Data Sources:** HR Employee Database & Tableau Dashboards  
 
 ## **Project Background & Objective:**  
 
