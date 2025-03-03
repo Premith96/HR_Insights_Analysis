@@ -1,7 +1,7 @@
 # HR Insights Analysis Project
 
-📅 Analysis Period: 2019 – 2023
-📂 Data Sources: HR Employee Database & Tableau Dashboards
+📅 **Analysis Period:** 2019 – 2023
+📂 **Data Sources:** HR Employee Database & Tableau Dashboards
 
 ## **Project Background & Objective:**  
 
@@ -48,10 +48,11 @@ The summary view consists of three main sections:
 ### **Employee Records View**
 ![Screenshot 2024-05-13 095723](https://raw.githubusercontent.com/Premith96/HR_Insights_Analysis_Project/refs/heads/main/HR%20_Records_Details_%20View.png)
 
-The employee record view consists of the following:  
+The **Employee List View** consists of three main sections:  
 
-1️⃣ Provides a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
-2️⃣ Users can filter the list based on any of the available columns for specific data.
+1️⃣ **Employee Information** – Displays employee ID, name, job title, department, and education level.  
+2️⃣ **Employment Details** – Includes location, salary, hire status, and length of employment.  
+3️⃣ **Interactive Features** – Enables filtering, exporting records, and easy navigation for HR insights. 
 
 Live Dashboard @ Tableau Public [LINK](https://public.tableau.com/app/profile/premith.pradeep/viz/HumanRresourceDashboard/HRSummary)
 
