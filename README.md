@@ -45,6 +45,11 @@ The summary view consists of three main sections:
 ### **Employee Records View**
 ![Screenshot 2024-05-13 095723](https://raw.githubusercontent.com/Premith96/HR_Insights_Analysis_Project/refs/heads/main/HR%20_Records_Details_%20View.png)
 
+The employee record view consists of the following:  
+
+1️⃣ Provides a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
+2️⃣ Users can filter the list based on any of the available columns for specific data.
+
 Live Dashboard @ Tableau Public [LINK](https://public.tableau.com/app/profile/premith.pradeep/viz/HumanRresourceDashboard/HRSummary)
 
 ## **📊 1. Overview Section: Workforce Summary & Attrition Trends**  
