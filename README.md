@@ -43,6 +43,7 @@ The summary view consists of three main sections:
 3️⃣ **Income Analysis** – Salary insights across different employee groups.
 
 ### **Employee Records View**
+![Screenshot 2024-05-13 095723](https://raw.githubusercontent.com/Premith96/HR_Insights_Analysis_Project/refs/heads/main/HR%20_Records_Details_%20View.png)
 
 Live Dashboard @ Tableau Public [LINK](https://public.tableau.com/app/profile/premith.pradeep/viz/HumanRresourceDashboard/HRSummary)
 
