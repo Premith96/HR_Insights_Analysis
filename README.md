@@ -1,5 +1,8 @@
 # HR Insights Analysis Project
 
+📅 Analysis Period: 2019 – 2023
+📂 Data Sources: HR Employee Database & Tableau Dashboards
+
 ## **Project Background & Objective:**  
 
 The HR department plays a crucial role in managing workforce stability, employee engagement, and organizational growth. However, challenges such as **high attrition rates, salary disparities, and demographic shifts** require a **data-driven approach** to workforce planning. This project focuses on leveraging HR analytics to provide insights into hiring trends, attrition patterns, and salary structures to enhance employee retention and decision-making.  
@@ -54,7 +57,7 @@ Live Dashboard @ Tableau Public [LINK](https://public.tableau.com/app/profile/pr
 
 ## **📊 1. Overview Section: Workforce Summary & Attrition Trends**  
 
-### **Key Performance Indicators (KPIs) - 2023**  
+### **Key Performance Indicators (KPIs) - 2023**
 
 | **Metric**          | **2019**  | **2020**  | **2021**  | **2022**  | **2023**  | **Change (2019-2023)** |
 |--------------------|---------|---------|---------|---------|---------|------------------|
