@@ -1,7 +1,8 @@
 # HR Insights Analysis Project
 
-📅 **Analysis Period:** 2019 – 2023  
+📅 **Analysis Period:** 2019 – 2023
 📂 **Data Sources:** <a href ="https://github.com/Premith96/HR_Insights_Analysis_Project/blob/main/HumanResources.csv"> Dataset </a>
+🛠️ **Tools and Technology:** Microsoft Excel, Tableau, ChatGPT, Python and Jupyter Notebook
 
 ## **Project Background & Objective:**  
 
