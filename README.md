@@ -6,7 +6,7 @@
 
 🛠️ **Tools and Technology:** Microsoft Excel, Tableau, ChatGPT, Python, and Jupyter Notebook 
 
-## **Project Background & Objective:**  
+## **Project Background & Objective**  
 
 The HR department plays a crucial role in managing workforce stability, employee engagement, and organizational growth. However, challenges such as **high attrition rates, salary disparities, and demographic shifts** require a **data-driven approach** to workforce planning. This project focuses on leveraging HR analytics to provide insights into hiring trends, attrition patterns, and salary structures to enhance employee retention and decision-making.  
 
@@ -19,7 +19,7 @@ The goal is to develop a **comprehensive HR dashboard** that enables HR managers
 
 This dashboard will include **high-level summaries and detailed employee records**, allowing HR to make informed, strategic decisions.
 
-## **Dataset and Data Discription:**
+## **Dataset and Data Discription**
 The dataset is generated using using a combination of ChatGPT prompts and the Python Faker library consisting of information on 8950 employees. Below is a detailed explanation of the dataset and its attributes:
 
 * Employee ID: Unique identification number assigned to each employee.
@@ -38,7 +38,7 @@ The dataset is generated using using a combination of ChatGPT prompts and the Py
 * Termination Date: The date when the employee left the company.
 * Adjusted Salary: The salary adjustment calculated based on gender, education level, and age.
 
-## Dashboard Overview:
+## Dashboard Overview
 ### **Summary View**
 ![Screenshot 2024-05-13 095723](https://raw.githubusercontent.com/Premith96/HR_Dashboard_Analytics_Project/refs/heads/main/HR%20_Analysis_Dashboard.png)
 
