@@ -1,4 +1,4 @@
-# HR Insights Analysis Project
+# HR Insights Analysis
 
 📅 **Analysis Period:** 2019 – 2023  
 
